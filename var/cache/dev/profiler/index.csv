@@ -1,0 +1,14 @@
+9bbbd5,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478264900,,200
+3bc095,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478264919,,200
+c3210a,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478264958,,200
+59198f,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478264961,,200
+ff22b7,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478265647,,200
+413078,::1,GET,http://localhost/Symfony/web/app_dev.php/_profiler,1478265763,,301
+723043,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1478266136,f21570,200
+f21570,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1478266136,,404
+2752c3,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1478266140,963156,200
+963156,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1478266140,,404
+5d5c58,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1478266144,285ea7,200
+285ea7,::1,GET,http://localhost/Symfony/web/app_dev.php/pagequinexistepas,1478266144,,404
+d9f0c2,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478266145,,200
+054b2b,::1,GET,http://localhost/Symfony/web/app_dev.php/,1478266146,,200
